@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Sottie
+# Author - Martins Akhivbareme
 
 """Print the alphabet in lowercase, not followed by a new line."""
 
