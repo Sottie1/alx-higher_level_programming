@@ -16,7 +16,7 @@ scripting. The specific list of projects contained follows:
 
 
 ## Author :
-* **Sottie** <(https://github.com/Sottie1)>
+* **Sottie** <"(https://github.com/Sottie1)">
 ## Acknowledgements :pray:
 All work contained in this project was completed as part of the curriculum for
 ALX Africa SE. ALX Africa is an online full-stack software
