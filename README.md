@@ -33,4 +33,3 @@ using project-based peer learning. For more information, visit
        alt="ALX Afroca Logo"
   >
 </p>
->>>>>>> b6231e4c176c729427ee72b38a5040262ec13a56
