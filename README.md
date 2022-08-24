@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-My  readme file
-=======
+
 # alx-higher_level_programming
 
 This repository contains programs written for the higher-level programming
@@ -33,7 +31,6 @@ engineering program that prepares students for careers in the tech industry
 using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com//).
 <p align="center">
-  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
-       alt="ALX Afroca Logo"
-  >
+  <img src = "https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Africa Logo">
+  
 </p>
